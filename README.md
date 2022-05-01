@@ -9,10 +9,6 @@
 
 Here is a login page backend
 
-## :new_moon: POOL OF TODOS
-
-</br>
-
 ## :first_quarter_moon: DOING
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
@@ -43,10 +39,6 @@ Here is a login page backend
 * [x] fix the implementation of the jwt route
 
 </br>
-
-## Little Notes
-
-* ``git rm -r --cached .`` for clear the git cache
 
 ## License
 
